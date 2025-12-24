@@ -31,10 +31,3 @@ Hi, I’m Isha 👋
 
 ## 🌍 Speaking Languages (Learning)
 🇰🇷 Korean &nbsp;&nbsp; 🇩🇪 German &nbsp;&nbsp; 🇫🇷 French &nbsp;&nbsp; 🇨🇳 Chinese
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isha-patankar-830853329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_._ishaaaaaaaaa_._?igsh=MWZucm12cnVtMThrNA==)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge)](mailto:isha.patankar15@gmail.com)
-
